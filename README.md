@@ -49,9 +49,9 @@ This project presents a financial analysis of Reliance Industries Ltd. using 5 y
 ---
 
 ## 👤 Author
-Prepared by: *[Your Name]*  
+Prepared by: *Anmol Negi*  
 Course: BBA  
-Year: *[Your Year]*
+Year: *2026*
 
 ---
 
